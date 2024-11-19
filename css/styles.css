@@ -100,6 +100,7 @@ span {
     width: 350px;
     border: 7px solid aqua;
     z-index: 1;
+    margin-left: 50px;
 }
 
 .about {
@@ -206,7 +207,7 @@ span {
 .contact-section img {
     width: 350px;
     bottom: 0;
-    opacity: 0.1;
+    opacity: 0.5;
 }
 
 .form {
